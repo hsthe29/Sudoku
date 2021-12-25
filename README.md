@@ -1,2 +1,2 @@
 # Sudoku
-Kotlin + Tornadofx
+Kotlin + Tornadofx + Gradle 7.1
